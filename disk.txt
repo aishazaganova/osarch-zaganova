@@ -1,8 +1,0 @@
-FriendlyName                     : SAMSUNG MZVL4256HBJD-00BH1
-MediaType                        : SSD
-BusType                          : NVMe
----
-DriveLetter SizeRemaining
------------ -------------
-C           159.66 GB
-            114.88 MB
