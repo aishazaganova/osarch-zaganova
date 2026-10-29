@@ -1,3 +1,0 @@
-Name                                    : Intel(R) Core(TM) i3-N300
-NumberOfCores                           : 8
-NumberOfLogicalProcessors               : 8
