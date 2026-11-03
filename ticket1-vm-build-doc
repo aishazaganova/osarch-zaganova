@@ -10,11 +10,16 @@ myself? Thanks
 
 ## 2. What was actually needed
 
-
+A build document that a literate person who has never opened a hypervisor can follow to rebuild your Linux and
+Windows guests from nothing. 
 
 ## 3. What I did
 
+1) Check if the hypervisor in the hardware is installed
 
+2) Read the VMware licensing page [https://knowledge.broadcom.com/external/article/368667/download-and-license-vmware-desktop-hype.html]
+3) Register a Broadcom account with my e-mail and confirm it
+4) If the host is Windows or Linux 
 
 ## 4. Evidence
 
