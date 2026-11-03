@@ -16,8 +16,9 @@ Windows guests from nothing.
 ## 3. What I did
 
 1) Check if the hypervisor in the hardware is installed
-
+${hypervisor}
 2) Read the VMware licensing page [https://knowledge.broadcom.com/external/article/368667/download-and-license-vmware-desktop-hype.html]
+
 3) Register a Broadcom account with my e-mail and confirm it
 4) If the host is Windows or Linux 
 
