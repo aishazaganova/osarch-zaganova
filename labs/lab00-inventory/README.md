@@ -30,7 +30,7 @@ The CPU model: AMD Ryzen 7 5825U with Radeon Graphics
 Core count: 8
 Thread count: 16
 Total memory: 5 981 MB
-Number of installed modules: 8589934592 bytes
+Number of installed modules: 37
 Speed: 3200
 Disk model: Micron MTFDKCD512QGN-1BN1AABLA
 Media type: SSD
