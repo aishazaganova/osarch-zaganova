@@ -26,10 +26,19 @@ BusType                           : NVMe>
 ```
 
 ## Result
+The CPU model: AMD Ryzen 7 5825U with Radeon Graphics
+Core count: 8
+Thread count: 16
+Total memory: 5 981 MB
+Number of installed modules: 8589934592 bytes
+Speed: 3200
+Disk model: Micron MTFDKCD512QGN-1BN1AABLA
+Media type: SSD
+BusType: NVMe
 
 ## What did not work the first time
 
-At least one thing. What I saw, what it turned out to be, what I did about it.
+I struggled with finding how to do this whole github thing and asked my friends to help me, so here I am a month later submitting lab00
 
 ## Evidence
 
