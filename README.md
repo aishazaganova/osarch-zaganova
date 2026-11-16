@@ -1,10 +1,10 @@
 # Operating System Architecture — build log
 
-**Student:**
-**Group:**
-**Host machine:**
-**Hypervisor:**
-**Guest operating systems:**
+**Student: Aisha Zaganova**
+**Group: CYB26-1**
+**Host machine: Windows32**
+**Hypervisor: Yes**
+**Guest operating systems: Linux**
 
 ## Labs
 
