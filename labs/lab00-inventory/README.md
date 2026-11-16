@@ -42,4 +42,6 @@ I struggled with finding how to do this whole github thing and asked my friends 
 
 ## Evidence
 
-- [evidence/](evidence/) — one line per file on what it proves
+- [evidence/](evidence/cpu.txt) — the CPU model, core count and thread count. 
+- [evidence/](evidence/memory.txt) — the total memory, the number of installed modules and their speed.
+- [evidence/](evidence/disk.txt) — the disk model, its type (HDD, SATA SSD, NVMe) and the free space on the volume I will store VMs on.
