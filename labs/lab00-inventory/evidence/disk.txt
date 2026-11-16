@@ -1,0 +1,63 @@
+﻿DriveLetter FriendlyName FileSystemType DriveType HealthStatus OperationalS
+                                                               tatus
+----------- ------------ -------------- --------- ------------ ------------
+            WINRE_DRV    NTFS           Fixed     Healthy      OK
+C           Windows-SSD  NTFS           Fixed     Healthy      OK
+
+ClassName                        : MSFT_PhysicalDisk
+Usage                            : Auto-Select
+OperationalStatus                : OK
+UniqueIdFormat                   : SCSI Name String
+HealthStatus                     : Healthy
+BusType                          : NVMe
+CannotPoolReason                 : Insufficient Capacity
+SupportedUsages                  : {Auto-Select, Manual-Select, Hot Spare, 
+                                   Retired...}
+MediaType                        : SSD
+SpindleSpeed                     : 0
+ObjectId                         : {1}\\LAPTOP-P21365V1\root/Microsoft/Wind
+                                   ows/Storage/Providers_v2\SPACES_Physical
+                                   Disk.ObjectId="{3ff912f1-8b87-11f1-94a6-
+                                   806e6f6e6963}:PD:{657379c9-4c45-975b-e56
+                                   2-8fce281f69d7}"
+PassThroughClass                 : 
+PassThroughIds                   : 
+PassThroughNamespace             : 
+PassThroughServer                : 
+UniqueId                         : eui.00A07501570CE722
+Description                      : 
+FriendlyName                     : Micron MTFDKCD512QGN-1BN1AABLA
+Manufacturer                     : 
+Model                            : Micron MTFDKCD512QGN-1BN1AABLA
+OperationalDetails               : 
+PhysicalLocation                 : Integrated : Bus 3 : Device 0 : 
+                                   Function 0 : Adapter 0
+SerialNumber                     : 00A0_7501_570C_E722.
+AdapterSerialNumber              : 2609570CE722        _0000
+AllocatedSize                    : 512110190592
+CanPool                          : False
+DeviceId                         : 0
+EnclosureNumber                  : 
+FirmwareVersion                  : 1002V8LN
+FruId                            : 2609570CE722
+IsIndicationEnabled              : False
+IsPartial                        : True
+LogicalSectorSize                : 512
+OtherCannotPoolReasonDescription : 
+PartNumber                       : 
+PhysicalSectorSize               : 4096
+Size                             : 512110190592
+SlotNumber                       : 
+SoftwareVersion                  : 
+StoragePoolUniqueId              : 
+VirtualDiskFootprint             : 0
+PSComputerName                   : 
+CimClass                         : root/microsoft/windows/storage:MSFT_Phys
+                                   icalDisk
+CimInstanceProperties            : {ObjectId, PassThroughClass, 
+                                   PassThroughIds, PassThroughNamespace...}
+CimSystemProperties              : Microsoft.Management.Infrastructure.CimS
+                                   ystemProperties
+
+
+

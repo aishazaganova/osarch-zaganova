@@ -1,0 +1,124 @@
+﻿Host Name:                     LAPTOP-P21365V1
+OS Name:                       Microsoft Windows 11 Home Single Language
+OS Version:                    10.0.26200 N/A Build 26200
+OS Manufacturer:               Microsoft Corporation
+OS Configuration:              Standalone Workstation
+OS Build Type:                 Multiprocessor Free
+Registered Owner:              Lenovo
+Registered Organization:       N/A
+Product ID:                    00342-43634-21870-AAOEM
+Original Install Date:         01.11.2026, 19:32:14
+System Boot Time:              16.11.2026, 08:22:35
+System Manufacturer:           LENOVO
+System Model:                  82XM
+System Type:                   x64-based PC
+Processor(s):                  1 Processor(s) Installed.
+                               [01]: AMD64 Family 25 Model 80 Stepping 0 AuthenticAMD ~2000 Mhz
+BIOS Version:                  LENOVO KYCN42WW, 15.04.2026
+Windows Directory:             C:\Windows
+System Directory:              C:\Windows\system32
+Boot Device:                   \Device\HarddiskVolume1
+System Locale:                 ru;Russian
+Input Locale:                  ru;Russian
+Time Zone:                     (UTC+05:00) Astana
+Total Physical Memory:         5 981 MB
+Available Physical Memory:     592 MB
+Virtual Memory: Max Size:      19 805 MB
+Virtual Memory: Available:     6 447 MB
+Virtual Memory: In Use:        13 358 MB
+Page File Location(s):         C:\pagefile.sys
+Domain:                        WORKGROUP
+Logon Server:                  \\LAPTOP-P21365V1
+Hotfix(s):                     6 Hotfix(s) Installed.
+                               [01]: KB5127690
+                               [02]: KB5054156
+                               [03]: KB5132061
+                               [04]: KB5067360
+                               [05]: KB5127647
+                               [06]: KB5132688
+Network Card(s):               4 NIC(s) Installed.
+                               [01]: Bluetooth Device (Personal Area Network)
+                                     Connection Name: Сетевое подключение Bluetooth
+                                     Status:          Media disconnected
+                               [02]: Realtek RTL8852BE WiFi 6 802.11ax PCIe Adapter
+                                     Connection Name: Беспроводная сеть
+                                     DHCP Enabled:    Yes
+                                     DHCP Server:     172.20.10.1
+                                     IP address(es)
+                                     [01]: 172.20.10.2
+                                     [02]: fe80::66ef:359f:aec6:43a2
+                                     [03]: 2a03:32c0:18:ac5b:b8c2:55d:b6a:250
+                                     [04]: 2a03:32c0:18:ac5b:bb37:9c1f:534e:2cd4
+                               [03]: VMware Virtual Ethernet Adapter for VMnet1
+                                     Connection Name: VMware Network Adapter VMnet1
+                                     DHCP Enabled:    Yes
+                                     DHCP Server:     192.168.37.254
+                                     IP address(es)
+                                     [01]: 192.168.37.1
+                                     [02]: fe80::9af5:b8a6:b571:393b
+                               [04]: VMware Virtual Ethernet Adapter for VMnet8
+                                     Connection Name: VMware Network Adapter VMnet8
+                                     DHCP Enabled:    Yes
+                                     DHCP Server:     192.168.232.254
+                                     IP address(es)
+                                     [01]: 192.168.232.1
+                                     [02]: fe80::2c6d:5ead:6040:2dd0
+Virtualization-based security: Status: Running
+                               Required Security Properties:
+                                     Base Virtualization Support
+                               Available Security Properties:
+                                     Base Virtualization Support
+                                     Secure Boot
+                                     DMA Protection
+                                     UEFI Code Readonly
+                                     SMM Security Mitigations 1.0
+                                     Mode Based Execution Control
+                               Services Configured:
+                                     Hypervisor enforced Code Integrity
+                               Services Running:
+                                     Hypervisor enforced Code Integrity
+                               App Control for Business policy: Enforced
+                               App Control for Business user mode policy: Enforced
+                               Security Features Enabled:
+Hyper-V Requirements:          A hypervisor has been detected. Features required for Hyper-V will not be displayed
+
+Caption              : Physical Memory
+Description          : Physical Memory
+InstallDate          : 
+Name                 : Physical Memory
+Status               : 
+CreationClassName    : Win32_PhysicalMemory
+Manufacturer         : Samsung
+Model                : 
+OtherIdentifyingInfo : 
+PartNumber           : M471A1G44CB0-CWE    
+PoweredOn            : 
+SerialNumber         : 00000000
+SKU                  : 
+Tag                  : Physical Memory 1
+Version              : 
+HotSwappable         : 
+Removable            : 
+Replaceable          : 
+FormFactor           : 0
+BankLabel            : P0 CHANNEL B
+Capacity             : 8589934592
+DataWidth            : 64
+InterleavePosition   : 0
+MemoryType           : 0
+PositionInRow        : 
+Speed                : 3200
+TotalWidth           : 64
+Attributes           : 1
+ConfiguredClockSpeed : 3200
+ConfiguredVoltage    : 1200
+DeviceLocator        : DIMM 0
+InterleaveDataDepth  : 0
+MaxVoltage           : 1200
+MinVoltage           : 1200
+SMBIOSMemoryType     : 26
+TypeDetail           : 16512
+PSComputerName       : 
+
+
+
