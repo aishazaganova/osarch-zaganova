@@ -1,16 +1,28 @@
 # Lab 0 — Inventory your own machine
 
-Pair:                     Driver first half:
-Machine:
-Date:
+Driver: Aisha Zaganova
+Machine: <Windows32>
+Date: 11.10.2026
 
 ## What I did
-
-Steps, with commands in code blocks. Not prose about the steps.
-
 ```
-<command>
-<output, trimmed>
+<Get-CimInstance Win32_Processor | Format-List *>
+<Name                                    : AMD Ryzen 7 5825U with Radeon
+                                          Graphics
+NumberOfCores                            : 8
+NumberOfLogicalProcessors                : 16>
+
+<Get-CimInstance Win32_PhysicalMemory>
+<Capacity             : 8589934592
+Speed                 : 3200>
+
+<systeminfo>
+<Total Physical Memory:         5 981 MB>
+
+<Get-PhysicalDisk | Format-List *>
+<FriendlyName                     : Micron MTFDKCD512QGN-1BN1AABLA
+MediaType                         : SSD
+BusType                           : NVMe>
 ```
 
 ## Result
