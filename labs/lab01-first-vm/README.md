@@ -1,7 +1,7 @@
 # Lab 1 — Your first virtual machine
 
-Pair:                     Driver first half:
-Machine:
+Driver: Aisha Zaganova
+Machine: <Windows32>, <Linux>
 Date:
 
 ## What I did
