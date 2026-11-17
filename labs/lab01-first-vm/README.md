@@ -1,8 +1,8 @@
 # Lab 1 — Your first virtual machine
 
 Driver: Aisha Zaganova
-Machine: <Windows32>, <Linux>
-Date:
+Machine: Windows32, Linux
+Date: 18.10.2026
 
 ## What I did
 
