@@ -1,7 +1,7 @@
 # Lab 0 — Inventory your own machine
 
 Driver: Aisha Zaganova
-Machine: <Windows32>
+Machine: Lenovo Windows 11
 Date: 11.10.2026
 
 ## What I did
