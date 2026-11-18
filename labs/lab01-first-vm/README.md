@@ -37,4 +37,7 @@ Sometimes I got quite confused in the steps and commands, so I carefully read th
 
 ## Evidence
 
-- [evidence/](evidence/) — one line per file on what it proves
+- [evidence/](evidence/vm-settings.png) — CPU, memory, disk as configured
+- [evidence/](evidence/guest-release.txt) — output of lsb_release -a inside the guest
+- [evidence/](evidence/broken.png) — the guest in its broken state
+- [evidence/](evidence/snapshot-list.png) — snapshots, after the rollback
