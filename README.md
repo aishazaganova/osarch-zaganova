@@ -2,7 +2,7 @@
 
 **Student: Aisha Zaganova**
 **Group: CYB26-1**
-**Host machine: Windows32**
+**Host machine: Windows 11**
 **Hypervisor: Yes**
 **Guest operating systems: Linux**
 
