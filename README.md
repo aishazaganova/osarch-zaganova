@@ -11,7 +11,7 @@
 | # | Topic | Folder | Status |
 |---|-------|--------|--------|
 | 0 | Inventory your own machine | [labs/lab00-inventory](labs/lab00-inventory) | done |
-| 1 | Your first virtual machine | [labs/lab01-first-vm](labs/lab01-first-vm) | work in progress | 
+| 1 | Your first virtual machine | [labs/lab01-first-vm](labs/lab01-first-vm) | done | 
 | 2 | A Windows guest, and a network | [labs/lab02-windows-vm](labs/lab02-windows-vm) | undone | 
 | 3 | Teardown | [labs/lab03-teardown](labs/lab03-teardown) | undone | 
 | 4 | Partition, mirror, fail, recover | [labs/lab04-storage](labs/lab04-storage) | undone |
